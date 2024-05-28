@@ -28,3 +28,5 @@ serve({
 });
 
 export type Api = typeof router;
+
+export default app;
