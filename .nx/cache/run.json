@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx deploy ui",
+    "startTime": "2024-05-28T19:33:33.258Z",
+    "endTime": "2024-05-28T19:35:01.637Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "ui:deploy",
+      "target": "deploy",
+      "projectName": "ui",
+      "hash": "4003628662711395165",
+      "startTime": "2024-05-28T19:33:33.262Z",
+      "endTime": "2024-05-28T19:35:01.636Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

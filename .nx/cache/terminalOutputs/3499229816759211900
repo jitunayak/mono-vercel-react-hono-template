@@ -1,0 +1,145 @@
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+
+[2m> [22m[2mnx run[22m airbnb-mono:dev
+
+[43m[30m WARN [39m[49m The "workspaces" field in package.json is not supported by pnpm. Create a "pnpm-workspace.yaml" file instead.
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> nx dev
+
+^C
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+
+
+[2m[32m——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————[39m[22m
+
+[0m[7m[1m[32m NX [39m[22m[27m[0m  [32mSuccessfully ran target dev for project airbnb-mono[39m
+
+

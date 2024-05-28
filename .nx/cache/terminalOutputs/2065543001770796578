@@ -1,0 +1,6 @@
+
+> airbnb-mono@1.0.0 dev /Users/jitunayak/Work/Monorepos/airbnb-mono
+> npm-run-all --parallel dev:api dev:ui
+
+sh: npm-run-all: command not found
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed.[39m

@@ -1,0 +1,21 @@
+{
+  "name": "airbnb-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev:api": "yarn --cwd apps/ui dev ",
+    "dev:ui": "yarn --cwd apps/api dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nx": "19.1.0"
+  },
+  "nx": {},
+  "workspaces": [
+    "apps/*"
+  ]
+}

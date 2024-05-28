@@ -1,0 +1,501 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.1.0",
+  "deps": {
+    "nx": "19.1.0"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [],
+    "projectFileMap": {
+      "airbnb-mono": [
+        {
+          "file": ".nx/cache/cloud/2405.23.7.hotfix3/index.js",
+          "hash": "10159494827144260429"
+        },
+        {
+          "file": ".nx/cache/cloud/2405.23.7.hotfix3/lib/daemon/process-run-end.js",
+          "hash": "5054484113939391388"
+        },
+        {
+          "file": ".nx/cache/cloud/2405.23.7.hotfix3/lib/heartbeat/heartbeat-process.js",
+          "hash": "7534296040876676211"
+        },
+        {
+          "file": ".nx/cache/cloud/2405.23.7.hotfix3/package.json",
+          "hash": "472105897775465947"
+        },
+        {
+          "file": ".nx/cache/cloud/verify.lock",
+          "hash": "5248674806786787443"
+        },
+        {
+          "file": ".nx/cache/file-map.json",
+          "hash": "6181686979568381754"
+        },
+        {
+          "file": ".nx/cache/nx_files.nxt",
+          "hash": "9537478753354745539"
+        },
+        {
+          "file": ".nx/cache/project-graph.json",
+          "hash": "2383889095217011479"
+        },
+        {
+          "file": ".nx/cache/run.json",
+          "hash": "1090855130305173644"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/4003628662711395165",
+          "hash": "17246346520941316808"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/4982842113148226525",
+          "hash": "1024524400946391590"
+        },
+        {
+          "file": ".nx/cache/terminalOutputs/5459563472826847129",
+          "hash": "1292077162377448713"
+        },
+        {
+          "file": "node_modules/.bin/eslint",
+          "hash": "9524267956475471757"
+        },
+        {
+          "file": "node_modules/.bin/nx",
+          "hash": "10069029150051890580"
+        },
+        {
+          "file": "node_modules/.bin/nx-cloud",
+          "hash": "7435142791510717508"
+        },
+        {
+          "file": "node_modules/.modules.yaml",
+          "hash": "3465728917664215153"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+eslint-plugin@7.11.0_@typescript-eslint+parser@7.11.0_eslint@8.57.0_typesc_voihb4h4b3jfapu5qzxw3rqjdi/node_modules/@typescript-eslint/eslint-plugin/node_modules/.bin/eslint",
+          "hash": "11802108831443695335"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+eslint-plugin@7.11.0_@typescript-eslint+parser@7.11.0_eslint@8.57.0_typesc_voihb4h4b3jfapu5qzxw3rqjdi/node_modules/@typescript-eslint/eslint-plugin/node_modules/.bin/tsc",
+          "hash": "10473441131772860319"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+eslint-plugin@7.11.0_@typescript-eslint+parser@7.11.0_eslint@8.57.0_typesc_voihb4h4b3jfapu5qzxw3rqjdi/node_modules/@typescript-eslint/eslint-plugin/node_modules/.bin/tsserver",
+          "hash": "2225729050441878599"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+parser@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/parser/node_modules/.bin/eslint",
+          "hash": "11802108831443695335"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+parser@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/parser/node_modules/.bin/tsc",
+          "hash": "10473441131772860319"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+parser@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/parser/node_modules/.bin/tsserver",
+          "hash": "2225729050441878599"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+type-utils@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/type-utils/node_modules/.bin/eslint",
+          "hash": "11802108831443695335"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+type-utils@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/type-utils/node_modules/.bin/tsc",
+          "hash": "10473441131772860319"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+type-utils@7.11.0_eslint@8.57.0_typescript@5.4.5/node_modules/@typescript-eslint/type-utils/node_modules/.bin/tsserver",
+          "hash": "2225729050441878599"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+typescript-estree@7.11.0_typescript@5.4.5/node_modules/@typescript-eslint/typescript-estree/node_modules/.bin/semver",
+          "hash": "16479234328247671086"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+typescript-estree@7.11.0_typescript@5.4.5/node_modules/@typescript-eslint/typescript-estree/node_modules/.bin/tsc",
+          "hash": "10473441131772860319"
+        },
+        {
+          "file": "node_modules/.pnpm/@typescript-eslint+typescript-estree@7.11.0_typescript@5.4.5/node_modules/@typescript-eslint/typescript-estree/node_modules/.bin/tsserver",
+          "hash": "2225729050441878599"
+        },
+        {
+          "file": "node_modules/.pnpm/lock.yaml",
+          "hash": "7667829162478803180"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/acorn",
+          "hash": "4559796182123024672"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/browserslist",
+          "hash": "7006293891811720669"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/esbuild",
+          "hash": "14326157877502625564"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/esparse",
+          "hash": "6179534136745325400"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/esvalidate",
+          "hash": "4473488344165669374"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/flat",
+          "hash": "4454491792212881147"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/is-docker",
+          "hash": "9976444208502947464"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/js-yaml",
+          "hash": "12277578514049076915"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/jsesc",
+          "hash": "3155669045882920344"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/json5",
+          "hash": "5303336018468913406"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/loose-envify",
+          "hash": "12907474293742164009"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/nanoid",
+          "hash": "4190634371376258553"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/node-which",
+          "hash": "17944997832311823062"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/parser",
+          "hash": "13563313618240517723"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/rimraf",
+          "hash": "8978033336615698917"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/rollup",
+          "hash": "14339945081896938949"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/semver",
+          "hash": "7695458453457953863"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/sl-log-transformer",
+          "hash": "11217395377143069690"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/tao",
+          "hash": "7933777061181523929"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/tsc",
+          "hash": "13258723407382386660"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/tsserver",
+          "hash": "7184472874364054168"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/tsx",
+          "hash": "16421591609302406668"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/update-browserslist-db",
+          "hash": "6583922964600565119"
+        },
+        {
+          "file": "node_modules/.pnpm/node_modules/.bin/vite",
+          "hash": "9618222274012751541"
+        },
+        {
+          "file": "node_modules/.pnpm/nx@19.1.0/node_modules/nx/node_modules/.bin/flat",
+          "hash": "17777123384150554207"
+        },
+        {
+          "file": "node_modules/.pnpm/nx@19.1.0/node_modules/nx/node_modules/.bin/js-yaml",
+          "hash": "1249892673556446687"
+        },
+        {
+          "file": "node_modules/.pnpm/nx@19.1.0/node_modules/nx/node_modules/.bin/semver",
+          "hash": "1590606680382935296"
+        },
+        {
+          "file": "node_modules/.pnpm/nx@19.1.0/node_modules/nx/node_modules/.bin/sl-log-transformer",
+          "hash": "2781043955780752663"
+        },
+        {
+          "file": "node_modules/.pnpm/nx@19.1.0/node_modules/nx/node_modules/.bin/tao",
+          "hash": "16389205562261919002"
+        },
+        {
+          "file": "node_modules/.pnpm/tsx@4.11.0/node_modules/tsx/node_modules/.bin/esbuild",
+          "hash": "13188436988481459173"
+        },
+        {
+          "file": "node_modules/.pnpm/vite@5.2.12_@types+node@20.12.12/node_modules/vite/node_modules/.bin/esbuild",
+          "hash": "13188436988481459173"
+        },
+        {
+          "file": "node_modules/.pnpm/vite@5.2.12_@types+node@20.12.12/node_modules/vite/node_modules/.bin/rollup",
+          "hash": "14007395878505747426"
+        },
+        {
+          "file": "nx.json",
+          "hash": "7452408572778218498"
+        },
+        {
+          "file": "package.json",
+          "hash": "12629404749510561744"
+        },
+        {
+          "file": "pnpm-lock.yaml",
+          "hash": "7667829162478803180"
+        },
+        {
+          "file": "pnpm-workspace.yaml",
+          "hash": "13108396804214547201"
+        },
+        {
+          "file": ".git/hooks/post-update.sample",
+          "hash": "16498975149454253769"
+        },
+        {
+          "file": ".git/FETCH_HEAD",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": ".git/hooks/commit-msg.sample",
+          "hash": "11930680668000581900"
+        },
+        {
+          "file": ".git/hooks/pre-rebase.sample",
+          "hash": "15784748353859782246"
+        },
+        {
+          "file": ".git/config",
+          "hash": "14656440403329541874"
+        },
+        {
+          "file": ".git/hooks/fsmonitor-watchman.sample",
+          "hash": "5519580754951798083"
+        },
+        {
+          "file": ".git/hooks/pre-applypatch.sample",
+          "hash": "1595391782482835178"
+        },
+        {
+          "file": ".git/description",
+          "hash": "6589616779641096119"
+        },
+        {
+          "file": ".git/hooks/pre-push.sample",
+          "hash": "3666369642558647280"
+        },
+        {
+          "file": ".git/hooks/prepare-commit-msg.sample",
+          "hash": "4009645067798984574"
+        },
+        {
+          "file": ".git/hooks/push-to-checkout.sample",
+          "hash": "5194610557431485830"
+        },
+        {
+          "file": ".git/hooks/pre-commit.sample",
+          "hash": "2931916916104981897"
+        },
+        {
+          "file": ".git/hooks/pre-merge-commit.sample",
+          "hash": "5691533144974613569"
+        },
+        {
+          "file": ".git/hooks/sendemail-validate.sample",
+          "hash": "7660090827690999586"
+        },
+        {
+          "file": ".git/hooks/update.sample",
+          "hash": "14696759095365231402"
+        },
+        {
+          "file": ".git/index.lock",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": ".git/HEAD",
+          "hash": "6460185820263248482"
+        },
+        {
+          "file": ".git/hooks/applypatch-msg.sample",
+          "hash": "3740124940738663445"
+        },
+        {
+          "file": ".git/info/exclude",
+          "hash": "2084763735014985388"
+        },
+        {
+          "file": ".git/hooks/pre-receive.sample",
+          "hash": "8999430056057037490"
+        },
+        {
+          "file": ".git/objects/da/ce3080243c9366b437ea80a36c1c5bc710d379",
+          "hash": "9767605240477227821"
+        },
+        {
+          "file": ".git/objects/a8/4b95ef852f00d322f1be9ef6f225213082ea16",
+          "hash": "2447435591366892059"
+        },
+        {
+          "file": ".git/objects/55/d7923b5b4e5441bc8474523786ba10c0fe6b81",
+          "hash": "17072517007386792433"
+        },
+        {
+          "file": ".git/objects/64/d4e03ceafcc82a65f85664c0f926746ea4ecef",
+          "hash": "10899800595665416225"
+        },
+        {
+          "file": ".git/objects/a8/aeb5f428c5f28c40d47925e9efac5e836f8dee",
+          "hash": "10953436699195385000"
+        },
+        {
+          "file": ".git/objects/22/tmp_obj_GUftil",
+          "hash": "8715587232647125955"
+        }
+      ],
+      "ui": [
+        {
+          "file": "apps/ui/.eslintrc.cjs",
+          "hash": "18224317155734308275"
+        },
+        {
+          "file": "apps/ui/.gitignore",
+          "hash": "18299491904024820487"
+        },
+        {
+          "file": "apps/ui/README.md",
+          "hash": "11460966644741158790"
+        },
+        {
+          "file": "apps/ui/dist/assets/index-DiwrgTda.css",
+          "hash": "905685822827184866"
+        },
+        {
+          "file": "apps/ui/dist/assets/index-MSKERpWG.js",
+          "hash": "14576123398985175547"
+        },
+        {
+          "file": "apps/ui/dist/index.html",
+          "hash": "559060876169309191"
+        },
+        {
+          "file": "apps/ui/dist/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/ui/index.html",
+          "hash": "4025202329384162906"
+        },
+        {
+          "file": "apps/ui/package.json",
+          "hash": "16462376161837581149",
+          "deps": [
+            "api"
+          ]
+        },
+        {
+          "file": "apps/ui/pnpm-lock.yaml",
+          "hash": "208368678187757138"
+        },
+        {
+          "file": "apps/ui/public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/ui/src/App.css",
+          "hash": "3739391659270974612"
+        },
+        {
+          "file": "apps/ui/src/App.tsx",
+          "hash": "510965547204691445"
+        },
+        {
+          "file": "apps/ui/src/assets/react.svg",
+          "hash": "16069471864800376455"
+        },
+        {
+          "file": "apps/ui/src/index.css",
+          "hash": "957896817323665666"
+        },
+        {
+          "file": "apps/ui/src/main.tsx",
+          "hash": "12948679595907665671"
+        },
+        {
+          "file": "apps/ui/src/vite-env.d.ts",
+          "hash": "12946363841406869089"
+        },
+        {
+          "file": "apps/ui/tsconfig.json",
+          "hash": "14032556756270793734"
+        },
+        {
+          "file": "apps/ui/tsconfig.node.json",
+          "hash": "4208030242441905014"
+        },
+        {
+          "file": "apps/ui/vite.config.ts",
+          "hash": "7008402861428644331"
+        }
+      ],
+      ".vercel": [
+        {
+          "file": "apps/ui/.vercel/README.txt",
+          "hash": "14131471887446248118"
+        },
+        {
+          "file": "apps/ui/.vercel/project.json",
+          "hash": "7000332922044363812"
+        }
+      ],
+      "api": [
+        {
+          "file": "apps/api/.gitignore",
+          "hash": "13759582651390510797"
+        },
+        {
+          "file": "apps/api/README.md",
+          "hash": "4913168686649881444"
+        },
+        {
+          "file": "apps/api/package.json",
+          "hash": "14549752148034900262"
+        },
+        {
+          "file": "apps/api/pnpm-lock.yaml",
+          "hash": "14327623891734081443"
+        },
+        {
+          "file": "apps/api/src/index.ts",
+          "hash": "3633717818219234970"
+        },
+        {
+          "file": "apps/api/tsconfig.json",
+          "hash": "14631025410193179234"
+        }
+      ]
+    }
+  }
+}
