@@ -2,7 +2,9 @@
   "name": "api",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "build": "tsx src/index.ts"
+    "build": "tsx -p .",
+    "vercel-buils": "vercel build 🐳",
+    "serve": "tsx ./src/index.ts"
   },
   "dependencies": {
     "@hono/node-server": "^1.11.1",

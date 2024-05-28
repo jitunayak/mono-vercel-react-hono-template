@@ -1,4 +1,5 @@
 import { serve } from "@hono/node-server";
+import { handle } from "@hono/node-server/vercel";
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 
@@ -19,7 +20,7 @@ const router = app
     return c.json({ id: c.req.param("id"), name: "Hono" });
   });
 
-const port = 3000;
+const port = (process.env.PORT as any as number) || 3000;
 console.log(`Server is running on port ${port}`);
 
 serve({
@@ -29,4 +30,4 @@ serve({
 
 export type Api = typeof router;
 
-export default app;
+export default handle(app);
