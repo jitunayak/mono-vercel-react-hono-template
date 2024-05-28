@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] =
     useState<InferResponseType<typeof client.users.$get>>();
 
-  const client = hc<Api>("http://localhost:3000");
+  const client = hc<Api>("https://airbnb-mono-a2y4.vercel.app/users");
 
   useEffect(() => {
     client.users
