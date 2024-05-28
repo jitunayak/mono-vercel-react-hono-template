@@ -2,7 +2,7 @@
   "name": "api",
   "scripts": {
     "dev": "tsx watch src/index.ts",
-    "build": "tsx -p .",
+    "build": "tsc -p .",
     "vercel-buils": "vercel build 🐳",
     "serve": "tsx ./src/index.ts"
   },
