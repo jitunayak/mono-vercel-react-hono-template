@@ -2,7 +2,7 @@ import { serve } from "@hono/node-server";
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 
-export const app = new Hono();
+const app = new Hono();
 
 app.use(
   cors({
@@ -30,4 +30,4 @@ serve(app);
 
 export type Api = typeof router;
 
-// export default app;
+export default app;
