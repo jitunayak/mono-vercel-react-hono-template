@@ -1,3 +1,8 @@
 node_modules
 
 apps/api/node_modules
+.nx
+nx
+
+.vercel
+dist
