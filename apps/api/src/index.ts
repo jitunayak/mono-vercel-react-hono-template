@@ -1,4 +1,3 @@
-import { serve } from "@hono/node-server";
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 
@@ -12,6 +11,9 @@ app.use(
 );
 
 const router = app
+  .get("/", (c) => {
+    return c.text("Hello, Hono!");
+  })
   .get("/users", (c) => {
     return c.json([{ id: "1", name: "Hono" }]);
   })
@@ -22,6 +24,6 @@ const router = app
 const port = (process.env.PORT as any as number) || 3000;
 console.log(`Server is running on port ${port}`);
 
-serve(app);
+// serve(app);
 
 export type Api = typeof router;
