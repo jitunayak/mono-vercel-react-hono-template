@@ -1,7 +1,9 @@
+import { serve } from "@hono/node-server";
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 
 export const app = new Hono();
+
 app.use(
   cors({
     origin: "*",
@@ -21,9 +23,11 @@ const router = app
     return c.json({ id: c.req.param("id"), name: "Hono" });
   });
 
-const port = (process.env.PORT as any as number) || 3000;
+const port = 3000;
 console.log(`Server is running on port ${port}`);
 
-// serve(app);
+serve(app);
 
 export type Api = typeof router;
+
+// export default app;

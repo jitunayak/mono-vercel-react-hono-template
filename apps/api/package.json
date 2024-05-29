@@ -1,10 +1,13 @@
 {
   "name": "api",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
   "scripts": {
-    "dev": "tsx --watch src/index.ts",
+    "dev": "tsx --watch api/index.ts",
     "build": "tsc -p .",
     "vercel-buils": "vercel build 🐳",
-    "serve": "tsx ./src/index.ts"
+    "serve": "tsx api/index.ts"
   },
   "dependencies": {
     "@hono/node-server": "^1.11.1",
